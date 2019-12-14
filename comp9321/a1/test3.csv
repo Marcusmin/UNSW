@@ -1,0 +1,160 @@
+,Country,summer_rubbish,summer_participation,summer_gold,summer_silver,summer_bronze,summer_total,winter_participation,winter_gold,winter_silver,winter_bronze,winter_total
+0, Afghanistan (AFG),BLA,14,0,0,2,2,0,0,0,0,0
+1, Algeria (ALG),BLA,13,5,4,8,17,3,0,0,0,0
+2, Argentina (ARG),BLA,24,21,25,28,74,19,0,0,0,0
+3, Armenia (ARM),BLA,6,2,6,6,14,7,0,0,0,0
+4, Australasia (ANZ) [ANZ],BLA,2,3,4,5,12,0,0,0,0,0
+5,Kingdom of the Void (VOID),,,,,,,,,,,
+6, Australia (AUS) [AUS] [Z],BLA,26,147,163,187,497,19,5,5,5,15
+7, Austria (AUT),BLA,27,18,33,36,87,23,64,81,87,232
+8, Azerbaijan (AZE),BLA,6,7,11,25,43,6,0,0,0,0
+9, Bahamas (BAH),BLA,16,6,2,6,14,0,0,0,0,0
+10, Bahrain (BRN),BLA,9,2,1,0,3,0,0,0,0,0
+11, Barbados (BAR) [BAR],BLA,12,0,0,1,1,0,0,0,0,0
+12, Belarus (BLR),BLA,6,12,27,39,78,7,8,5,5,18
+13, Belgium (BEL),BLA,26,40,53,55,148,21,1,2,3,6
+14, Bermuda (BER),BLA,18,0,0,1,1,8,0,0,0,0
+15, Bohemia (BOH) [BOH] [Z],BLA,3,0,1,3,4,0,0,0,0,0
+16, Botswana (BOT),BLA,10,0,1,0,1,0,0,0,0,0
+17,Treasure Island (TRI),,,,,,,,,,,
+18, Brazil (BRA),BLA,22,30,36,62,128,8,0,0,0,0
+19, British West Indies (BWI) [BWI],BLA,1,0,0,2,2,0,0,0,0,0
+20, Bulgaria (BUL) [H],BLA,20,51,87,80,218,20,1,2,3,6
+21, Burundi (BDI),BLA,6,1,1,0,2,0,0,0,0,0
+22, Cameroon (CMR),BLA,14,3,1,2,6,1,0,0,0,0
+23, Canada (CAN),BLA,26,64,102,136,302,23,73,64,62,199
+24, Chile (CHI) [I],BLA,23,2,7,4,13,17,0,0,0,0
+25, China (CHN) [CHN],BLA,10,224,167,155,546,11,13,28,21,62
+26, Colombia (COL),BLA,19,5,9,14,28,2,0,0,0,0
+27, Costa Rica (CRC),BLA,15,1,1,2,4,6,0,0,0,0
+28, Ivory Coast (CIV) [CIV],BLA,13,1,1,1,3,0,0,0,0,0
+29, Croatia (CRO),BLA,7,11,10,12,33,8,4,6,1,11
+30, Cuba (CUB) [Z],BLA,20,78,68,79,225,0,0,0,0,0
+31, Cyprus (CYP),BLA,10,0,1,0,1,11,0,0,0,0
+32, Czech Republic (CZE) [CZE],BLA,6,15,17,24,56,7,9,11,11,31
+33, Czechoslovakia (TCH) [TCH],BLA,16,49,49,45,143,16,2,8,15,25
+34, Denmark (DEN) [Z],BLA,27,45,74,75,194,14,0,1,0,1
+35, Djibouti (DJI) [B],BLA,8,0,0,1,1,0,0,0,0,0
+36, Dominican Republic (DOM),BLA,14,3,2,2,7,0,0,0,0,0
+37, Ecuador (ECU),BLA,14,1,1,0,2,1,0,0,0,0
+38, Egypt (EGY) [EGY] [Z],BLA,22,7,10,15,32,1,0,0,0,0
+39, Eritrea (ERI),BLA,5,0,0,1,1,1,0,0,0,0
+40, Estonia (EST),BLA,12,9,9,16,34,10,4,2,1,7
+41, Ethiopia (ETH),BLA,13,22,11,20,53,2,0,0,0,0
+42, Fiji (FIJ),BLA,14,1,0,0,1,3,0,0,0,0
+43, Finland (FIN),BLA,25,101,85,117,303,23,43,63,61,167
+44, France (FRA) [O] [P] [Z],BLA,28,212,241,263,716,23,36,35,53,124
+45, Gabon (GAB),BLA,10,0,1,0,1,0,0,0,0,0
+46, Georgia (GEO),BLA,6,8,8,17,33,7,0,0,0,0
+47, Germany (GER) [GER] [Z],BLA,16,191,194,230,615,12,92,88,60,240
+48, United Team of Germany (EUA) [EUA],BLA,3,28,54,36,118,3,8,6,5,19
+49, East Germany (GDR) [GDR],BLA,5,153,129,127,409,6,39,36,35,110
+50, West Germany (FRG) [FRG],BLA,5,56,67,81,204,6,11,15,13,39
+51, Ghana (GHA) [GHA],BLA,14,0,1,3,4,2,0,0,0,0
+52, Great Britain (GBR) [GBR] [Z],BLA,28,263,295,291,849,23,11,4,16,31
+53,Republic of Mars (MARS),,,,,,,,,,,
+54, Greece (GRE) [Z],BLA,28,33,43,40,116,19,0,0,0,0
+55, Grenada (GRN),BLA,9,1,1,0,2,0,0,0,0,0
+56, Guatemala (GUA),BLA,14,0,1,0,1,1,0,0,0,0
+57, Guyana (GUY) [GUY],BLA,17,0,0,1,1,0,0,0,0,0
+58, Haiti (HAI) [J],BLA,15,0,1,1,2,0,0,0,0,0
+59, Hong Kong (HKG) [HKG],BLA,16,1,1,1,3,5,0,0,0,0
+60, Hungary (HUN),BLA,26,175,147,169,491,23,1,2,4,7
+61, Iceland (ISL),BLA,20,0,2,2,4,18,0,0,0,0
+62, India (IND) [F],BLA,24,9,7,12,28,10,0,0,0,0
+63, Indonesia (INA),BLA,15,7,13,12,32,0,0,0,0,0
+64, Iran (IRI) [K],BLA,16,19,22,28,69,11,0,0,0,0
+65, Iraq (IRQ),BLA,14,0,0,1,1,0,0,0,0,0
+66, Ireland (IRL),BLA,21,9,10,12,31,7,0,0,0,0
+67, Israel (ISR),BLA,16,1,1,7,9,7,0,0,0,0
+68, Italy (ITA) [M] [S],BLA,27,206,178,193,577,23,40,36,48,124
+69, Jamaica (JAM) [JAM],BLA,17,22,35,20,77,8,0,0,0,0
+70, Japan (JPN),BLA,22,142,135,162,439,21,14,22,22,58
+71, Jordan (JOR),BLA,10,1,0,0,1,0,0,0,0,0
+72, Kazakhstan (KAZ),BLA,6,15,20,27,62,7,1,3,4,8
+73, Kenya (KEN),BLA,14,31,38,33,102,4,0,0,0,0
+74, Kosovo (KOS),BLA,1,1,0,0,1,1,0,0,0,0
+75, North Korea (PRK),BLA,10,16,16,22,54,9,0,1,1,2
+76, South Korea (KOR),BLA,17,90,87,90,267,18,31,25,14,70
+77, Kuwait (KUW),BLA,12,0,0,2,2,0,0,0,0,0
+78, Kyrgyzstan (KGZ),BLA,6,0,1,3,4,7,0,0,0,0
+79, Latvia (LAT),BLA,11,3,11,5,19,11,0,4,4,8
+80, Lebanon (LIB),BLA,17,0,2,2,4,17,0,0,0,0
+81, Liechtenstein (LIE),BLA,17,0,0,0,0,19,2,2,6,10
+82, Lithuania (LTU),BLA,9,6,7,12,25,9,0,0,0,0
+83, Luxembourg (LUX) [O],BLA,23,1,1,0,2,9,0,2,0,2
+84,Kingdom of the Rock (ROCK),,,,,,,,,,,
+85, Macedonia (MKD),BLA,6,0,0,1,1,6,0,0,0,0
+86, Malaysia (MAS) [MAS],BLA,13,0,7,4,11,1,0,0,0,0
+87, Mauritius (MRI),BLA,9,0,0,1,1,0,0,0,0,0
+88, Mexico (MEX),BLA,23,13,24,32,69,9,0,0,0,0
+89, Moldova (MDA),BLA,6,0,2,3,5,7,0,0,0,0
+90, Mongolia (MGL),BLA,13,2,10,14,26,14,0,0,0,0
+91, Montenegro (MNE),BLA,3,0,1,0,1,3,0,0,0,0
+92, Morocco (MAR),BLA,14,6,5,12,23,7,0,0,0,0
+93, Mozambique (MOZ),BLA,10,1,0,1,2,0,0,0,0,0
+94, Namibia (NAM),BLA,7,0,4,0,4,0,0,0,0,0
+95, Netherlands (NED) [Z],BLA,26,85,92,108,285,21,45,44,41,130
+96, Netherlands Antilles (AHO) [AHO] [I],BLA,13,0,1,0,1,2,0,0,0,0
+97, New Zealand (NZL) [NZL],BLA,23,46,27,44,117,16,0,1,2,3
+98, Niger (NIG),BLA,12,0,1,1,2,0,0,0,0,0
+99, Nigeria (NGR),BLA,16,3,10,12,25,1,0,0,0,0
+100, Norway (NOR) [Q],BLA,25,56,49,47,152,23,132,125,111,368
+101, Pakistan (PAK),BLA,17,3,3,4,10,3,0,0,0,0
+102, Panama (PAN),BLA,17,1,0,2,3,0,0,0,0,0
+103, Paraguay (PAR),BLA,12,0,1,0,1,1,0,0,0,0
+104, Peru (PER) [L],BLA,18,1,3,0,4,2,0,0,0,0
+105,Kingdom of the Stromlands (STORM),,,,,,,,,,,
+106, Philippines (PHI),BLA,21,0,3,7,10,5,0,0,0,0
+107, Poland (POL),BLA,21,68,83,133,284,23,7,7,8,22
+108, Portugal (POR),BLA,24,4,8,12,24,8,0,0,0,0
+109, Puerto Rico (PUR),BLA,18,1,2,6,9,7,0,0,0,0
+110, Qatar (QAT),BLA,9,0,1,4,5,0,0,0,0,0
+111, Romania (ROU),BLA,21,89,95,122,306,21,0,0,1,1
+112, Russia (RUS) [RUS],BLA,6,149,124,153,426,6,47,38,35,120
+113, Russian Empire (RU1) [RU1],BLA,3,1,4,3,8,0,0,0,0,0
+114, Soviet Union (URS) [URS],BLA,9,395,319,296,"1,010",9,78,57,59,194
+115, Saudi Arabia (KSA),BLA,11,0,1,2,3,0,0,0,0,0
+116, Samoa (SAM),BLA,9,0,1,0,1,0,0,0,0,0
+117, Senegal (SEN),BLA,14,0,1,0,1,5,0,0,0,0
+118, Serbia (SRB) [SRB],BLA,4,3,6,6,15,3,0,0,0,0
+119, Serbia and Montenegro (SCG) [SCG],BLA,1,0,2,0,2,1,0,0,0,0
+120, Singapore (SIN),BLA,16,1,2,2,5,1,0,0,0,0
+121, Slovakia (SVK) [SVK],BLA,6,9,12,7,28,7,3,4,1,8
+122, Slovenia (SLO),BLA,7,5,8,10,23,8,2,5,10,17
+123, South Africa (RSA),BLA,19,26,31,29,86,7,0,0,0,0
+124, Spain (ESP) [Z],BLA,23,45,64,41,150,20,1,0,3,4
+125, Sri Lanka (SRI) [SRI],BLA,17,0,2,0,2,0,0,0,0,0
+126, Sudan (SUD),BLA,12,0,1,0,1,0,0,0,0,0
+127, Suriname (SUR) [E],BLA,12,1,0,1,2,0,0,0,0,0
+128, Sweden (SWE) [Z],BLA,27,145,170,179,494,23,57,46,55,158
+129, Switzerland (SUI),BLA,28,50,75,67,192,23,55,46,52,153
+130, Syria (SYR),BLA,13,1,1,1,3,0,0,0,0,0
+131, Chinese Taipei (TPE) [TPE] [TPE2],BLA,14,5,7,12,24,12,0,0,0,0
+132, Tajikistan (TJK),BLA,6,1,1,2,4,4,0,0,0,0
+133, Tanzania (TAN) [TAN],BLA,13,0,2,0,2,0,0,0,0,0
+134, Thailand (THA),BLA,16,9,8,16,33,4,0,0,0,0
+135, Togo (TOG),BLA,10,0,0,1,1,2,0,0,0,0
+136, Tonga (TGA),BLA,9,0,1,0,1,2,0,0,0,0
+137, Trinidad and Tobago (TRI) [TRI],BLA,17,2,6,11,19,3,0,0,0,0
+138, Tunisia (TUN),BLA,14,4,2,7,13,0,0,0,0,0
+139, Turkey (TUR),BLA,22,39,24,28,91,17,0,0,0,0
+140, Uganda (UGA),BLA,15,2,3,2,7,0,0,0,0,0
+141, Ukraine (UKR),BLA,6,35,30,56,121,7,3,1,4,8
+142, United Arab Emirates (UAE),BLA,9,1,0,1,2,0,0,0,0,0
+143, United States (USA) [P] [Q] [R] [Z],BLA,27,"1,022",795,705,"2,522",23,105,110,90,305
+144, Uruguay (URU),BLA,21,2,2,6,10,1,0,0,0,0
+145, Uzbekistan (UZB),BLA,6,8,6,17,31,7,1,0,0,1
+146, Venezuela (VEN),BLA,18,2,3,10,15,4,0,0,0,0
+147, Vietnam (VIE),BLA,15,1,3,0,4,0,0,0,0,0
+148, Virgin Islands (ISV),BLA,12,0,1,0,1,7,0,0,0,0
+149, Yugoslavia (YUG) [YUG],BLA,18,28,31,31,90,16,0,3,1,4
+150, Zambia (ZAM) [ZAM],BLA,13,0,1,1,2,0,0,0,0,0
+151,Republic of Gamers (GAME),BLA,,,,,,,,,,
+152, Zimbabwe (ZIM) [ZIM],BLA,13,3,4,1,8,1,0,0,0,0
+153, Unified Team (EUN) [EUN],BLA,1,45,38,29,112,1,9,6,8,23
+154, Independent Olympic Athletes (IOA) [IOA],BLA,3,1,0,1,2,0,0,0,0,0
+155, Independent Olympic Participants (IOP) [IOP],BLA,1,0,1,2,3,0,0,0,0,0
+156, Olympic Athletes from Russia (OAR) [OAR],BLA,0,0,0,0,0,1,2,6,9,17
+157, Mixed team (ZZX) [ZZX],BLA,3,8,5,4,17,0,0,0,0,0
+158,Totals,BLA,28,"5,115","5,080","5,482","15,677",23,"1,060","1,058","1,050","3,168"
